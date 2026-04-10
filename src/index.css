@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+}
+
+/* 让滚动条/选中文本更“网页应用”一点点 */
+::selection {
+  background: rgba(168, 85, 247, 0.25);
+}

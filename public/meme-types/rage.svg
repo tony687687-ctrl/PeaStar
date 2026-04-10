@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560">
+  <rect width="1200" height="560" fill="#fff"/>
+  <rect x="24" y="24" width="1152" height="512" rx="16" fill="#fff" stroke="#000" stroke-width="4"/>
+  <text x="600" y="90" text-anchor="middle" font-family="Arial" font-size="56" font-weight="800">RAGE KEYBOARD MODE</text>
+  <text x="600" y="135" text-anchor="middle" font-family="Arial" font-size="28">MUST CORRECT EVERY NONSENSE</text>
+  <circle cx="260" cy="300" r="118" fill="#fff" stroke="#000" stroke-width="5"/>
+  <circle cx="220" cy="280" r="18" fill="#000"/><circle cx="300" cy="280" r="18" fill="#000"/>
+  <path d="M200 365L260 330L320 365" stroke="#000" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <rect x="170" y="390" width="180" height="42" fill="#fff" stroke="#000" stroke-width="4"/>
+  <text x="260" y="418" text-anchor="middle" font-family="Arial" font-size="24">ENTER</text>
+  <text x="460" y="260" font-family="Arial" font-size="36">- "I am not angry, I am educational"</text>
+  <text x="460" y="317" font-family="Arial" font-size="36">- Sees bad logic, starts boss fight</text>
+  <text x="460" y="374" font-family="Arial" font-size="36">- Reply speed: instant combustion</text>
+</svg>

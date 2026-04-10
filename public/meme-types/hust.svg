@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560">
+  <rect width="1200" height="560" fill="#fff"/>
+  <rect x="24" y="24" width="1152" height="512" rx="16" fill="#fff" stroke="#000" stroke-width="4"/>
+  <text x="600" y="90" text-anchor="middle" font-family="Arial" font-size="56" font-weight="800">HUST BUILDER MODE</text>
+  <text x="600" y="135" text-anchor="middle" font-family="Arial" font-size="28">SLEEP IS A PATCH, WORK IS PROD</text>
+  <circle cx="260" cy="300" r="118" fill="#fff" stroke="#000" stroke-width="5"/>
+  <rect x="200" y="235" width="120" height="28" fill="#fff" stroke="#000" stroke-width="4"/>
+  <ellipse cx="220" cy="300" rx="16" ry="12" fill="#000"/><ellipse cx="300" cy="300" rx="16" ry="12" fill="#000"/>
+  <path d="M195 360H325" stroke="#000" stroke-width="9" stroke-linecap="round"/>
+  <text x="460" y="260" font-family="Arial" font-size="36">- "Just one more task" x 47</text>
+  <text x="460" y="317" font-family="Arial" font-size="36">- Weekend? You mean overtime DLC</text>
+  <text x="460" y="374" font-family="Arial" font-size="36">- Progress bar is your love language</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560">
+  <rect width="1200" height="560" fill="#fff"/>
+  <rect x="24" y="24" width="1152" height="512" rx="16" fill="#fff" stroke="#000" stroke-width="4"/>
+  <text x="600" y="90" text-anchor="middle" font-family="Arial" font-size="56" font-weight="800">CTRL KING MODE</text>
+  <text x="600" y="135" text-anchor="middle" font-family="Arial" font-size="28">I SAID FOLLOW THE PLAN</text>
+  <circle cx="260" cy="300" r="118" fill="#fff" stroke="#000" stroke-width="5"/>
+  <ellipse cx="220" cy="285" rx="18" ry="14" fill="#000"/><ellipse cx="300" cy="285" rx="18" ry="14" fill="#000"/>
+  <path d="M188 355C225 330 290 330 332 355" stroke="#000" stroke-width="8" stroke-linecap="round" fill="none"/>
+  <path d="M170 248L220 232M302 232L352 248" stroke="#000" stroke-width="6" stroke-linecap="round"/>
+  <rect x="430" y="215" width="705" height="225" fill="#fff" stroke="#000" stroke-width="4"/>
+  <text x="460" y="275" font-family="Arial" font-size="36">- Meetings have agenda and agenda has agenda</text>
+  <text x="460" y="332" font-family="Arial" font-size="36">- "Relax" means controlled relaxation</text>
+  <text x="460" y="389" font-family="Arial" font-size="36">- Chaos detected. Taking over now.</text>
+</svg>

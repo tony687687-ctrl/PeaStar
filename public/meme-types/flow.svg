@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560">
+  <rect width="1200" height="560" fill="#fff"/>
+  <rect x="24" y="24" width="1152" height="512" rx="16" fill="#fff" stroke="#000" stroke-width="4"/>
+  <text x="600" y="90" text-anchor="middle" font-family="Arial" font-size="56" font-weight="800">FLOW MONK MODE</text>
+  <text x="600" y="135" text-anchor="middle" font-family="Arial" font-size="28">LET IT BE... AFTER A NAP</text>
+  <circle cx="260" cy="300" r="118" fill="#fff" stroke="#000" stroke-width="5"/>
+  <path d="M180 305C210 290 240 290 270 305C300 320 320 320 340 308" stroke="#000" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <path d="M210 260H245M280 260H315" stroke="#000" stroke-width="6" stroke-linecap="round"/>
+  <path d="M430 350C550 300 650 400 770 350C890 300 980 400 1110 350" stroke="#000" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <text x="460" y="260" font-family="Arial" font-size="36">- Deadline is just a social construct</text>
+  <text x="460" y="317" font-family="Arial" font-size="36">- If plan fails, improvise with confidence</text>
+  <text x="460" y="374" font-family="Arial" font-size="36">- Calm outside, chaos accepted inside</text>
+</svg>

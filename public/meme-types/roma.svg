@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560">
+  <rect width="1200" height="560" fill="#fff"/>
+  <rect x="24" y="24" width="1152" height="512" rx="16" fill="#fff" stroke="#000" stroke-width="4"/>
+  <text x="600" y="90" text-anchor="middle" font-family="Arial" font-size="56" font-weight="800">ROMA FORTUNE MODE</text>
+  <text x="600" y="135" text-anchor="middle" font-family="Arial" font-size="28">IF IT FEELS RIGHT, IT IS RIGHT</text>
+  <circle cx="260" cy="300" r="118" fill="#fff" stroke="#000" stroke-width="5"/>
+  <path d="M260 220L285 275L345 282L300 322L312 382L260 352L208 382L220 322L175 282L235 275Z" fill="#000"/>
+  <circle cx="215" cy="300" r="14" fill="#fff"/><circle cx="305" cy="300" r="14" fill="#fff"/>
+  <text x="460" y="260" font-family="Arial" font-size="36">- Spreads cards, ignores spreadsheet</text>
+  <text x="460" y="317" font-family="Arial" font-size="36">- Logic says no, vibes say yes</text>
+  <text x="460" y="374" font-family="Arial" font-size="36">- Romance over risk control</text>
+</svg>
